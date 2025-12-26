@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "title": "NovaClip — Ücretsiz Video İndirici",
+    "description": "YouTube, Instagram, TikTok, Twitter ve 1000+ yerden yüksek kaliteli video ve MP3 indirin. Ücretsiz, hızlı ve güvenli.",
+    "keywords": "video indir, youtube indir, mp3 indir, video indirici, ses indir, tiktok indir, instagram indir"
+  },
+  "header": {
+    "brand": "NovaClip",
+    "by": "Tengra'dan",
+    "tengra": "Tengra Studio →"
+  },
+  "hero": {
+    "title1": "Video İndirmek",
+    "title2": "Hiç Bu Kadar Kolay Olmamıştı",
+    "subtitle": "YouTube, Instagram, TikTok ve daha fazlasından yüksek kalitede videolar indirin.",
+    "badge": "Hızlı ve Ücretsiz Video İndirme",
+    "feature1": "HD Kalite",
+    "feature2": "Yıldırım Hızı",
+    "feature3": "100% Ücretsiz",
+    "downloader": "İndirici"
+  },
+  "search": {
+    "placeholder": "Video linkini buraya yapıştırın...",
+    "button": "Videoyu Bul",
+    "searching": "Aranıyor...",
+    "helper": "Instagram, TikTok, YouTube, Twitter, Facebook, Pinterest desteklenir"
+  },
+  "video": {
+    "quality": "Kalite Seçin",
+    "best": "En Yüksek",
+    "audioOnly": "Sadece Ses (MP3)",
+    "audioOnlyDesc": "Sadece ses dosyasını indirmek için",
+    "downloadVideo": "Videoyu İndir",
+    "downloadAudio": "Sesi İndir",
+    "preparing": "Hazırlanıyor...",
+    "views": "görüntülenme"
+  },
+  "features": {
+    "title": "Neden NovaClip?",
+    "subtitle": "En hızlı ve güvenilir video indirici",
+    "fast": {
+      "title": "Hızlı İndirme",
+      "description": "Güçlü altyapımızla videolarınızı saniyeler içinde indirin"
+    },
+    "quality": {
+      "title": "Yüksek Kalite",
+      "description": "4K dahil tüm çözünürlükleri destekliyoruz"
+    },
+    "secure": {
+      "title": "Güvenli İşlem",
+      "description": "Verileriniz kaydedilmez, gizliliğiniz önceliğimizdir"
+    },
+    "mp3": {
+      "title": "MP3 Dönüştürme",
+      "description": "Videoları kolayca ses dosyasına dönüştürebilirsiniz"
+    },
+    "multi": {
+      "title": "Çoklu Platform",
+      "description": "YouTube, Instagram, TikTok ve daha fazlası"
+    },
+    "free": {
+      "title": "Tamamen Ücretsiz",
+      "description": "Gizli ücret veya abonelik gerekmez"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} NovaClip",
+    "disclaimer": "Lütfen telif haklarına uyun ve izinsiz içerik indirmeyin.",
+    "madeBy": "tarafından geliştirildi.",
+    "supported": "Desteklenen Platformlar",
+    "madeWith": "Sevgiyle",
+    "by": "yazan"
+  },
+  "errors": {
+    "urlRequired": "Lütfen bir video linki girin",
+    "fetchFailed": "Video bilgileri alınamadı, lütfen tekrar deneyin",
+    "authRequired": "Bu video için erişim kısıtlaması var. Lütfen başka bir video deneyin.",
+    "privateVideo": "Bu video gizli olduğu için erişilemiyor.",
+    "invalidUrl": "Geçersiz video linki, lütfen kontrol edin.",
+    "tooManyRequests": "Çok fazla istek yapıldı. Lütfen biraz bekleyin.",
+    "downloadFailed": "İndirme bağlantısı oluşturulamadı",
+    "proxyRedirect": "Doğrudan bağlantı başarısız, alternatif yollar deneniyor...",
+    "copyFailed": "Link kopyalanamadı. Lütfen manuel olarak kopyalayın."
+  },
+  "success": {
+    "downloadStarted": "İndirme başladı!",
+    "copied": "İndirme linki kopyalandı"
+  },
+  "actions": {
+    "copyLink": "Linki kopyala",
+    "clearRecent": "Geçmişi temizle",
+    "preview": "Önizleme",
+    "hidePreview": "Önizlemeyi kapat",
+    "cancelSchedule": "Zamanlamayı iptal et"
+  },
+  "notices": {
+    "rateLimit": "Limitler: Kullanıcı başına dakikada ~20 sorgu, 15 indirme.",
+    "unknownSource": "Bu kaynak desteklenmiyor olabilir. Başka bir link deneyebilirsiniz.",
+    "previewFailed": "Önizleme şu an kullanılamıyor.",
+    "scheduled": "İndirme {time} için planlandı."
+  },
+  "recent": {
+    "title": "Son Arananlar",
+    "empty": "Henüz bir arama yapılmadı."
+  },
+  "history": {
+    "title": "İndirme Geçmişi",
+    "empty": "Henüz bir indirme yapmadınız.",
+    "audio": "Sadece ses"
+  },
+  "support": {
+    "title": "Desteklenen Platformlar",
+    "subtitle": "En iyi sonuçlar için bu platformları öneriyoruz.",
+    "close": "Kapat"
+  },
+  "labels": {
+    "estimatedSize": "Tahmini boyut",
+    "proxyStatus": "Proxy durumu",
+    "schedule": "İndirmeyi zamanla"
+  },
+  "schedule": {
+    "now": "Hemen",
+    "in15": "15 dk sonra",
+    "in60": "1 saat sonra",
+    "offPeak": "Gece (02:00)",
+    "scheduled": "{time} için planlandı",
+    "cancel": "İptal"
+  },
+  "status": {
+    "proxy": "Proxy",
+    "direct": "Doğrudan",
+    "attempts": "deneme",
+    "latencyUnit": "ms"
+  },
+  "preview": {
+    "title": "Önizleme",
+    "loading": "Hazırlanıyor..."
+  }
+}

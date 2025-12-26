@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "title": "NovaClip — Free Video Downloader",
+    "description": "Claim pristine videos and audio from YouTube, Instagram, TikTok, Twitter and 1000+ realms. Free, swift, and secure.",
+    "keywords": "video download, youtube download, mp3 download, video downloader, audio download, tiktok download, instagram reels download"
+  },
+  "header": {
+    "brand": "NovaClip",
+    "by": "from Tengra",
+    "tengra": "Tengra Studio →"
+  },
+  "hero": {
+    "title1": "Claiming Videos",
+    "title2": "Has Never Been This Easy",
+    "subtitle": "Snag pristine videos from YouTube, Instagram, TikTok and beyond.",
+    "badge": "Fast & Free Video Downloads",
+    "feature1": "HD Quality",
+    "feature2": "Lightning Fast",
+    "feature3": "100% Free",
+    "downloader": "Downloader"
+  },
+  "search": {
+    "placeholder": "Drop the video link here...",
+    "button": "Find",
+    "searching": "Seeking...",
+    "helper": "Supports Instagram, TikTok, YouTube, Twitter, Facebook, Pinterest"
+  },
+  "video": {
+    "quality": "Choose Quality",
+    "best": "Finest",
+    "audioOnly": "Audio Only (MP3)",
+    "audioOnlyDesc": "Perfect for extracting the melody",
+    "downloadVideo": "Claim Video",
+    "downloadAudio": "Claim Audio",
+    "preparing": "Forging...",
+    "views": "views"
+  },
+  "features": {
+    "title": "Why Choose NovaClip?",
+    "subtitle": "The fastest and most reliable video downloader on the web",
+    "fast": {
+      "title": "Swift as Wind",
+      "description": "Claim in seconds with our robust infrastructure"
+    },
+    "quality": {
+      "title": "Pristine Quality",
+      "description": "We support all resolutions including 4K"
+    },
+    "secure": {
+      "title": "Safe & Sound",
+      "description": "Your data is never stored — your privacy is sacred"
+    },
+    "mp3": {
+      "title": "Audio Extraction",
+      "description": "Easily strip the audio into MP3"
+    },
+    "multi": {
+      "title": "Multi-Realm",
+      "description": "YouTube, Instagram, TikTok and beyond"
+    },
+    "free": {
+      "title": "No Coin Required",
+      "description": "No hidden fees or subscriptions"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} NovaClip",
+    "disclaimer": "Claiming copyrighted content without permission is forbidden.",
+    "madeBy": "Forged by",
+    "supported": "Supported Platforms",
+    "madeWith": "Made with",
+    "by": "by"
+  },
+  "errors": {
+    "urlRequired": "A link is needed, friend",
+    "fetchFailed": "Couldn't retrieve the info",
+    "authRequired": "This requires authentication. Try another video.",
+    "privateVideo": "This video is kept private.",
+    "invalidUrl": "That link seems off. Double-check it.",
+    "tooManyRequests": "Easy now. Wait a minute.",
+    "downloadFailed": "Couldn't forge the download link",
+    "proxyRedirect": "Direct path blocked. Taking the scenic route...",
+    "copyFailed": "Couldn't copy. Try a long-press or right-click."
+  },
+  "success": {
+    "downloadStarted": "And so it begins!",
+    "copied": "Link preserved to clipboard"
+  },
+  "actions": {
+    "copyLink": "Copy claim link",
+    "clearRecent": "Clear the slate",
+    "preview": "Preview",
+    "hidePreview": "Hide preview",
+    "cancelSchedule": "Cancel pledge"
+  },
+  "notices": {
+    "rateLimit": "Limits: ~20 checks and 15 claims per minute per IP.",
+    "unknownSource": "This source might be guarded. If it fails, try another.",
+    "previewFailed": "Preview not available for this one.",
+    "scheduled": "Download pledged for {time}."
+  },
+  "recent": {
+    "title": "Recent quests",
+    "empty": "No trails yet."
+  },
+  "history": {
+    "title": "Download chronicles",
+    "empty": "No entries in the ledger.",
+    "audio": "Audio only"
+  },
+  "support": {
+    "title": "Known Realms",
+    "subtitle": "Best results on these platforms. Others may still work.",
+    "close": "Seal"
+  },
+  "labels": {
+    "estimatedSize": "Estimated size",
+    "proxyStatus": "Proxy status",
+    "schedule": "Schedule download"
+  },
+  "schedule": {
+    "now": "Now",
+    "in15": "In 15 min",
+    "in60": "In 1 hour",
+    "offPeak": "Tonight 02:00",
+    "scheduled": "Pledged for {time}",
+    "cancel": "Cancel"
+  },
+  "status": {
+    "proxy": "Proxy",
+    "direct": "Direct",
+    "attempts": "attempts",
+    "latencyUnit": "ms"
+  },
+  "preview": {
+    "title": "Preview",
+    "loading": "Preparing preview..."
+  }
+}
